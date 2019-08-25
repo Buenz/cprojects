@@ -1,0 +1,6 @@
+John Smith#10.45 40 15
+Jane Doe#12.50 45 15
+Harry Morgan#20.00 40 20
+Carmen Martinez#25.00 35 25
+Jacintha Washington#50.85 60 35  
+#
